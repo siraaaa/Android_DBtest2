@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Android\\mobile\\work\\DBTest02_sample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_all_contacts.xml",
+        "source": "C:\\Android\\mobile\\work\\DBTest02_sample\\app\\src\\main\\res\\layout\\activity_all_contacts.xml"
+    },
+    {
+        "merged": "C:\\Android\\mobile\\work\\DBTest02_sample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Android\\mobile\\work\\DBTest02_sample\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Android\\mobile\\work\\DBTest02_sample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_insert_contact.xml",
+        "source": "C:\\Android\\mobile\\work\\DBTest02_sample\\app\\src\\main\\res\\layout\\activity_insert_contact.xml"
+    },
+    {
+        "merged": "C:\\Android\\mobile\\work\\DBTest02_sample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_search_contact.xml",
+        "source": "C:\\Android\\mobile\\work\\DBTest02_sample\\app\\src\\main\\res\\layout\\activity_search_contact.xml"
+    },
+    {
+        "merged": "C:\\Android\\mobile\\work\\DBTest02_sample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_layout.xml",
+        "source": "C:\\Android\\mobile\\work\\DBTest02_sample\\app\\src\\main\\res\\layout\\listview_layout.xml"
+    }
+]

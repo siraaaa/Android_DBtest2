@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\sira\.android\build-cache\0f63db181ad730a5bd5c2739319566404456c898\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="C:\Android\mobile\work\DBTest02_sample\app\build\intermediates\pre-dexed\debug\classes_ed54f2bf94667b9cc99b706ad8cdbc118db36b10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="C:\Android\mobile\work\DBTest02_sample\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.1_51ab30143fbff50b8779a9626e6d377c1c44e7c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sira\.android\build-cache\bf90a93f7f211f217672d98d6dbde02b8e45e74a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Android\mobile\work\DBTest02_sample\app\build\intermediates\pre-dexed\debug\classes_e61a72974b313c3377a1f037fb23d2d09d846eb5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sira\.android\build-cache\b58cf17e09560980837e9790a322785aaabecd9b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="C:\Android\mobile\work\DBTest02_sample\app\build\intermediates\pre-dexed\debug\classes_e0581287c7d32ab207a41ae89fb703c50aedc48e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sira\.android\build-cache\0f63db181ad730a5bd5c2739319566404456c898\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="C:\Android\mobile\work\DBTest02_sample\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_d57a8ec11ca177facc642519a8a4eb0a1be61ac4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sira\.android\build-cache\b58cf17e09560980837e9790a322785aaabecd9b\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Android\mobile\work\DBTest02_sample\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_12bcd94b0850e10ddd598522afe313b8b63e7a56.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sira\.android\build-cache\2b61856e8cf43183d367c1114df16b098dbdf988\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="C:\Android\mobile\work\DBTest02_sample\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_689e5e8ef7cdafcaea21b36d57a9eb5ffaa14149.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sira\.android\build-cache\29777835cabc7f30417f4aa9dc5c23f72978830f\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="C:\Android\mobile\work\DBTest02_sample\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_f25294645fc0e6a6e01a0dfd821ef79a95771c8b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sira\.android\build-cache\a19307b6bbbeb7122c8e79665f8ce1cf16fac4db\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="C:\Android\mobile\work\DBTest02_sample\app\build\intermediates\pre-dexed\debug\classes_bc2d6c2a3c8d3ca85a58699dbdaea87733c9161c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sira\.android\build-cache\29777835cabc7f30417f4aa9dc5c23f72978830f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="C:\Android\mobile\work\DBTest02_sample\app\build\intermediates\pre-dexed\debug\classes_521b1f204e87dce650ac75f9aebedd26d27eb74c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sira\.android\build-cache\2b61856e8cf43183d367c1114df16b098dbdf988\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="C:\Android\mobile\work\DBTest02_sample\app\build\intermediates\pre-dexed\debug\classes_e23d46e94685ce0a6feb86b6f1436ac5cb297037.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sira\.android\build-cache\a19307b6bbbeb7122c8e79665f8ce1cf16fac4db\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="C:\Android\mobile\work\DBTest02_sample\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_f472629aebed9192e2de0288ef6b0c10e2ff1928.jar" />
+    </item>
+
+</items>

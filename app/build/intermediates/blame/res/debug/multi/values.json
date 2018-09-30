@@ -1,0 +1,144 @@
+[
+    {
+        "outputFile": "C:\\Android\\mobile\\work\\DBTest02_sample\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "C:\\Android\\mobile\\work\\DBTest02_sample\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 45,
+                        "endOffset": 100
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 101,
+                    "endColumn": 52,
+                    "endOffset": 149
+                },
+                "from": {
+                    "file": "C:\\Android\\mobile\\work\\DBTest02_sample\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 106,
+                        "endColumn": 52,
+                        "endOffset": 154
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 154,
+                    "endColumn": 75,
+                    "endOffset": 225
+                },
+                "from": {
+                    "file": "C:\\Android\\mobile\\work\\DBTest02_sample\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 322,
+                        "endColumn": 75,
+                        "endOffset": 393
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 230,
+                    "endColumn": 79,
+                    "endOffset": 305
+                },
+                "from": {
+                    "file": "C:\\Android\\mobile\\work\\DBTest02_sample\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 160,
+                        "endColumn": 79,
+                        "endOffset": 235
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 310,
+                    "endColumn": 79,
+                    "endOffset": 385
+                },
+                "from": {
+                    "file": "C:\\Android\\mobile\\work\\DBTest02_sample\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 241,
+                        "endColumn": 79,
+                        "endOffset": 316
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 390,
+                    "endLine": 13,
+                    "endColumn": 12,
+                    "endOffset": 676
+                },
+                "from": {
+                    "file": "C:\\Android\\mobile\\work\\DBTest02_sample\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 681,
+                    "endLine": 16,
+                    "endColumn": 12,
+                    "endOffset": 836
+                },
+                "from": {
+                    "file": "C:\\Android\\mobile\\work\\DBTest02_sample\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 679
+                    }
+                }
+            }
+        ]
+    }
+]
